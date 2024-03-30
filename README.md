@@ -1,4 +1,4 @@
 # Demo
 just for learning
 <br>
-Author - Kuldeep Kumar 
+Author - Kuldeep Kumar Pamar
